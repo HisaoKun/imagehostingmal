@@ -1,3 +1,3 @@
 # imagehostingmal
 nothing
-[img][/img]
+[img]Untitled (8).png[/img]
