@@ -1,2 +1,3 @@
 # imagehostingmal
 nothing
+[img][/img]
